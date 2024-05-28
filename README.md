@@ -15,7 +15,8 @@ Now that we have moved on from deciding our product's requirements, we will be m
 - DS3231 RTC module: To keep accurate track of the current time, utilizes I2C communication
 - ADA1770 TFT LCD Touchscreen: For user experience
 - Adafruit STEMMA Speaker: To allow adthan to be heard throughout the house
-- Buttons
+- Buttons: For powering on device, different lighting functionalities.
+- 
 
 
 
