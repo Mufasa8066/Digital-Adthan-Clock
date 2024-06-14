@@ -4,6 +4,7 @@ As Muslims, it is essential to maintain a presence of our faith in our homes. Li
 # Requirements
 To design our digital clock for Muslim households, we need the following features:
 
+- **Power requirements**: Receive Power from outlet (120V) and step down to 
 - **Current Time Display**: Shows time in 12-hour format with both Gregorian and Islamic calendars, displaying the date in MM/DD/YYYY and time in HH:MM:SS formats.
 - **Adhan Playback**: Calls the adhan at designated prayer times.
 - **Prayer Times Storage**: Connects to an app for up-to-date adhan times, with an option to choose different mu'adhdhin voices.
