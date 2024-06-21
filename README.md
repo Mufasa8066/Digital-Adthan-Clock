@@ -1,6 +1,9 @@
 # Digital Adthan Clock
-As Muslims, it is essential to maintain a presence of our faith in our homes. Living in the USA, we face certain limitations on how much we can incorporate our religious practices into our daily lives. One prominent feature of a Muslim household in Islamic countries is the sound of the adhan, the call to prayer performed five times a day. Typically, every home is within earshot of a mosque, allowing everyone to hear the adhan when it is time for prayer. However, in the US, there are fewer mosques, and they are often restricted from broadcasting the adhan loudly for the community. To address this, I have decided to design a digital clock that will play the adhan at the appropriate prayer times.
+In Muslim-majority countries, the adhan, or call to prayer, is a beautiful and essential feature of daily life, resonating from mosques and reminding everyone of the prayer times. Living in the USA, we face certain limitations in incorporating this important aspect of our faith into our daily lives. One significant challenge is the limited number of mosques and the restrictions they often face in broadcasting the adhan loudly for the community.
 
+To address this, I have decided to design a digital clock that will play the adhan at the appropriate prayer times. This digital clock will be a valuable addition to Muslim households, ensuring that we can maintain a strong presence of our faith within our homes, regardless of our geographical location.
+
+*Note: There are digital adhan clocks available on the market. This is just to showcase the step-by-step process of designing one on my own.*
 # Requirements
 To design our digital clock for Muslim households, we need the following features:
 
