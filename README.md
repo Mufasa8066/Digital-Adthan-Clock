@@ -16,9 +16,8 @@ The technical requirements for this clock goes as follows:
 
 - **Power**: 9V, 500-800mA power adapter. The goal is to remain as power-efficient as possible.
 - **Audio**: 70 dB
-- ****:
- 
-
+- **Display**: LCD Screen due to affordability
+- **Controls**: Buttons & touchscreen
 
 # Components (Prototying)
 Now that we have moved on from deciding our product's requirements, we will be moving on to gather the resources necessary to successfully implement a digital Adthan clock. We will be beginning with a prototyping phase on a breadboard before moving to design our own custom PCB. The components I will be using for testing will be:
@@ -27,7 +26,7 @@ Now that we have moved on from deciding our product's requirements, we will be m
 - ADA1770 TFT LCD Touchscreen: For user experience
 - Adafruit STEMMA Speaker: To allow adthan to be heard throughout the house
 - Buttons: For powering on device, different lighting functionalities.
-- 
+  
 
 
 
