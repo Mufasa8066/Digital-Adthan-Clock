@@ -4,7 +4,6 @@ As Muslims, it is essential to maintain a presence of our faith in our homes. Li
 # Requirements
 To design our digital clock for Muslim households, we need the following features:
 
-- **Power requirements**: Receive Power from outlet (120V) and step down to 
 - **Current Time Display**: Shows time in 12-hour format with both Gregorian and Islamic calendars, displaying the date in MM/DD/YYYY and time in HH:MM:SS formats.
 - **Adhan Playback**: Calls the adhan at designated prayer times.
 - **Prayer Times Storage**: Connects to an app for up-to-date adhan times, with an option to choose different mu'adhdhin (person who calls the paryer) voices.
@@ -12,6 +11,14 @@ To design our digital clock for Muslim households, we need the following feature
 - **Touchscreen Interface**: Enhances user experience with a modern, user-friendly interface.
 
 These features ensure the clock effectively supports Muslim practices in the home.
+
+The technical requirements for this clock goes as follows:
+
+- **Power**: 9V, 500-800mA power adapter. The goal is to remain as power-efficient as possible.
+- **Audio**: 70 dB
+- ****:
+ 
+
 
 # Components (Prototying)
 Now that we have moved on from deciding our product's requirements, we will be moving on to gather the resources necessary to successfully implement a digital Adthan clock. We will be beginning with a prototyping phase on a breadboard before moving to design our own custom PCB. The components I will be using for testing will be:
