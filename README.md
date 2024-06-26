@@ -1,4 +1,4 @@
-# Digital Adthan Clock
+# Digital Adhan Clock
 In Muslim-majority countries, the adhan, or call to prayer, is a beautiful and essential feature of daily life, resonating from mosques and reminding everyone of the prayer times. Living in the USA, we face certain limitations in incorporating this important aspect of our faith into our daily lives. One significant challenge is the limited number of mosques and the restrictions they often face in broadcasting the adhan loudly for the community.
 
 To address this, I have decided to design a digital clock that will play the adhan at the appropriate prayer times. This digital clock will be a valuable addition to Muslim households, ensuring that we can maintain a strong presence of our faith within our homes, regardless of our geographical location.
